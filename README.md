@@ -1,8 +1,8 @@
 # 🧠 Jogo da Velha com IA (Minimax)
 
-Bem-vindo ao **Jogo da Velha com Inteligência Artificial**, um projeto desenvolvido como parte da minha jornada no programa **Vai na Web**, turma atual.
+Bem-vindo ao **Jogo da Velha com Inteligência Artificial,** um projeto desenvolvido como parte da minha jornada no programa **Vai na Web**.
 
-Este jogo implementa um oponente computadorizado usando o algoritmo **Minimax**, desafiando o jogador humano com jogadas otimizadas. O objetivo é proporcionar uma experiência divertida e educativa, ao mesmo tempo em que exercitamos lógica de programação e algoritmos de tomada de decisão.
+Este jogo implementa um oponente computadorizado usando o algoritmo **Minimax,** desafiando o jogador humano com jogadas otimizadas. O objetivo é proporcionar uma experiência divertida e educativa, ao mesmo tempo em que exercitamos lógica de programação e algoritmos de tomada de decisão.
 
 ---
 
